@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/json-simple-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/Selenium Jars/Selenium Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/xml-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/json-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/rest-assured-common-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Development_Avecto/hamcrest-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
